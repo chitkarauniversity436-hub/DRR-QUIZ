@@ -1,5 +1,3 @@
-
-drr quiz
 class Solution {
     public int numOfSubarrays(int[] arr, int k, int threshold) {
         int l = 0 ; int h = k -1 ;
