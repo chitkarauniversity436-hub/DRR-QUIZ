@@ -100,3 +100,11 @@ Email notifications for registered participants.
 Downloadable certificates for winners.
 Quiz history and individual performance reports.
 Support for multiple quiz events.
+
+
+
+👥 Developed For
+Disaster Risk Reduction (DRR) Club
+An initiative to encourage awareness, preparedness, and knowledge about disaster risk reduction through interactive digital learning.
+
+
