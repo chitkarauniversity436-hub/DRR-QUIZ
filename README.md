@@ -68,3 +68,11 @@ The platform evaluates participants using two major factors:
 Answer Accuracy: Correct answers contribute to the participant's score.
 Response Time: Faster correct responses can receive ranking preference.
 The leaderboard helps identify the top-performing participants based on their overall quiz performance.
+
+
+🔒 Security and Fairness
+Unique Gmail-based participation.
+Roll number-based student identification.
+Prevention of duplicate quiz submissions.
+Admin-controlled quiz availability.
+Server-side validation of quiz submissions and scoring.
