@@ -76,3 +76,27 @@ Roll number-based student identification.
 Prevention of duplicate quiz submissions.
 Admin-controlled quiz availability.
 Server-side validation of quiz submissions and scoring.
+
+
+📊 Expected Outcomes
+
+Efficient organization of online quizzes.
+
+Improved student engagement in Disaster Risk Reduction activities.
+
+Accurate evaluation of quiz participants.
+
+Transparent performance-based rankings.
+
+Simplified management of quiz events.
+
+Recognition of top-performing students.
+
+🚀 Future Enhancements
+Multiple quiz categories and difficulty levels.
+Real-time leaderboard updates.
+Detailed performance analytics.
+Email notifications for registered participants.
+Downloadable certificates for winners.
+Quiz history and individual performance reports.
+Support for multiple quiz events.
