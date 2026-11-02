@@ -47,3 +47,16 @@ Time Management: Set individual question time limits.
 Result Monitoring: Track student participation and scores.
 Winner Dashboard: View rankings and identify top-performing participants.
 Quiz Control: Ensure the quiz is accessible only during the configured time window.
+
+
+🧠 Quiz Workflow
+
+Student opens the DRR Club Quiz Platform.
+Student enters their Gmail ID and university roll number.
+System validates the registration.
+Student starts the quiz during the active quiz window.
+The quiz displays 10 questions with individual timers.
+Student submits answers within the given time.
+The system calculates the final score.
+Participants are ranked based on correctness and response time.
+Winners are displayed on the leaderboard dashboard.
