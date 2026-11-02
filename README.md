@@ -36,3 +36,14 @@ Automatic Scoring: Scores are calculated based on correct answers and response t
 Single Submission: One Gmail ID can participate only once.
 Leaderboard: View rankings based on quiz performance.
 Responsive Interface: Access the platform from desktop, tablet, and mobile devices.
+
+
+
+🛡️ Admin Features
+
+Quiz Scheduling: Configure quiz start and end dates/times.
+Question Management: Manage quiz questions and answers.
+Time Management: Set individual question time limits.
+Result Monitoring: Track student participation and scores.
+Winner Dashboard: View rankings and identify top-performing participants.
+Quiz Control: Ensure the quiz is accessible only during the configured time window.
