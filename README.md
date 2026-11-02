@@ -60,3 +60,11 @@ Student submits answers within the given time.
 The system calculates the final score.
 Participants are ranked based on correctness and response time.
 Winners are displayed on the leaderboard dashboard.
+
+
+
+🏆 Scoring and Ranking System
+The platform evaluates participants using two major factors:
+Answer Accuracy: Correct answers contribute to the participant's score.
+Response Time: Faster correct responses can receive ranking preference.
+The leaderboard helps identify the top-performing participants based on their overall quiz performance.
