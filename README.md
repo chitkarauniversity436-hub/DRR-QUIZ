@@ -2,10 +2,6 @@
 
 An Interactive Online Quiz Platform for the Disaster Risk Reduction Club
 
-
-
-
-
 📌 About The Project
 
 The DRR Club Quiz Platform is a web-based quiz application developed for the Disaster Risk Reduction (DRR) Club to conduct online quizzes in an interactive, time-based, and competitive environment.
