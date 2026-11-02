@@ -19,12 +19,20 @@ The main objective is to promote awareness, knowledge, and learning about Disast
 Provide a digital platform for conducting DRR Club quizzes.
 
 Make quiz participation simple and accessible for students.
-
 Evaluate participants based on accuracy and response time.
-
 Ensure fair participation through unique Gmail registration.
-
 Allow administrators to manage quiz schedules and monitor results.
-
 Display winners through a dedicated leaderboard dashboard.
 
+
+✨ Key Features
+
+👨‍🎓 Student Features
+
+Student Registration: Register using Gmail ID and university roll number.
+Timed Quiz: Participate in a quiz containing 10 questions.
+Individual Question Timer: Each question has its own time limit.
+Automatic Scoring: Scores are calculated based on correct answers and response time.
+Single Submission: One Gmail ID can participate only once.
+Leaderboard: View rankings based on quiz performance.
+Responsive Interface: Access the platform from desktop, tablet, and mobile devices.
