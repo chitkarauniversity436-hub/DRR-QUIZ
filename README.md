@@ -107,4 +107,9 @@ Support for multiple quiz events.
 Disaster Risk Reduction (DRR) Club
 An initiative to encourage awareness, preparedness, and knowledge about disaster risk reduction through interactive digital learning.
 
-
+🤝 Contributions
+Contributions, suggestions, and improvements are welcome.
+Fork the repository.
+Create a new feature branch.
+Commit your changes.
+Submit a Pull Request.
