@@ -15,3 +15,16 @@ The platform allows students to register using their Gmail ID and university rol
 The main objective is to promote awareness, knowledge, and learning about Disaster Risk Reduction through a digital assessment platform.
 
 🎯 Project Objectives
+
+Provide a digital platform for conducting DRR Club quizzes.
+
+Make quiz participation simple and accessible for students.
+
+Evaluate participants based on accuracy and response time.
+
+Ensure fair participation through unique Gmail registration.
+
+Allow administrators to manage quiz schedules and monitor results.
+
+Display winners through a dedicated leaderboard dashboard.
+
